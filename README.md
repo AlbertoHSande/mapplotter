@@ -1,5 +1,5 @@
 # Map Plotter
-A Simple Python Tool for Visualizing Maps
+A Simple Python Tool for making map art and decorate your walls.
 Map Plotter is a lightweight Python application designed to help you visualize maps based on specified coordinates. With just a few inputs, you can generate a clear representation of roads and pathways.
 
 Features:
